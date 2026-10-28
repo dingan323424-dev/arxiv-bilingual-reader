@@ -1,0 +1,4 @@
+# 生成的译文受原论文版权约束，不进仓库 / generated translations must not be committed
+arxiv-bilingual/
+__pycache__/
+.DS_Store
